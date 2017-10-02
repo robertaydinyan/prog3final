@@ -1,0 +1,22 @@
+.graf {
+  width: 100%; 
+  min-height: 600px;
+}
+
+.tablechart {
+  width: 100%;
+}
+
+.table2 {
+  border: 1px solid black;
+}
+
+.table {
+  border: 2px solid black;
+  text-align: center;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  margin-top: 10px; 
+}
